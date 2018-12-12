@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ColorString",
-    version="0.0.1",
+    version="0.0.2",
     author="Matthew Knight James",
     author_email="mattkjames7@gmail.com",
     description="A simple utility to change the color of text within a terminal.",
